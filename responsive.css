@@ -22,9 +22,9 @@
         line-height: 4cm;
     }
     .heading h2 {
-        font-size: 28px;
+        font-size: 25px;
         text-align: center;
-        letter-spacing: 3px;
+        letter-spacing: 2px;
         margin-left: 0;
         margin-right: 0;
     }
@@ -38,7 +38,7 @@
     .flex-container p {
         text-align: center;
         padding-top: 0;
-        font-size: 18px;
+        font-size: 16px;
         margin: 0 40px 25px 40px;
     }
     .footer-list li , a {
